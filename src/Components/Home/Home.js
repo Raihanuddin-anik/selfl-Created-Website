@@ -3,7 +3,7 @@ import './home.css'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import fakeData from '../../fakeData'
 import LocationItem from './LocationItem'
-import 'swiper/swiper.scss';
+import 'swiper/swiper.scss'; 
 import 'swiper/components/navigation/navigation.scss';
 import 'swiper/components/pagination/pagination.scss';
 import 'swiper/components/scrollbar/scrollbar.scss';
